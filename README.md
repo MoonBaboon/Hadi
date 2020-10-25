@@ -42,3 +42,4 @@ git commit -m "Enter what you have done"
 //Saving changes in shared repository
 git push
 
+//Trying the vd code method for git
