@@ -1,10 +1,17 @@
 # sign-up
+
 # login
+
 # store credentials
+
 # send invite
+
 # request change on time
+
 # request change on place
+
 # reply invite
+
 # temporary chat
 
 ssh-keygen -t rsa -b 4096 -C "examle@hotmail.com"
@@ -24,7 +31,6 @@ git config --global user.name "real name here"
 git push -> enter credentials
 make some changes in README.md
 
-
 git add README.md
 
 //To see what you have changed so far
@@ -35,3 +41,5 @@ git commit -m "Enter what you have done"
 
 //Saving changes in shared repository
 git push
+
+//deneme
