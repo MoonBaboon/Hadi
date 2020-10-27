@@ -1,0 +1,25 @@
+- Layouts and general UI
+
+- Server for logins etc.
+
+    - Using python!
+
+- Having a database (5 GB Free :) )
+
+- Implementing the software
+
+    - Using mobile data
+    
+    - Having a location system (Using the GPS)
+    
+    - Accept or deny the invitation
+
+    - Having a group to send location etc.
+
+    - Using contacts to add friends
+
+
+
+- Chat
+
+    - Both group and personal chat (with time limit)
