@@ -9,6 +9,11 @@ Due: 1st of November!
     - Learn how to use github branch system!
 
 
+Due: 8th of November!
+	
+	-Everybody, get  more familiar with Android Studio!
+
+	-Create a basic class diagram.
 
 
 SEE YOU ON SUNDAY!
